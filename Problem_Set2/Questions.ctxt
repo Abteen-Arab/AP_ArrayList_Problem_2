@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Questions
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ Programmer\:\ Abteen\ Arab\n\ \ Program\:\ ArrayList\ Assignment\ 2\n\ Date\:\ Dec.\ 2,\ 2020\n
+comment2.params=max
+comment2.target=java.util.ArrayList\ Eratosthenes(int)
+comment2.text=\ Loop\ 1\:\ Creates\ an\ array\ list\ of\ natural\ numbers\ from\ 2\ to\ max\ \n\ \ Loop\ 2\:\ The\ loop\ goes\ through\ all\ the\ numbers\ in\ the\ list\ 'nums'\ \n\ \ Loop\ 3\:\ For\ every\ number\ passed\ in\ Loop2,\ Loop3\ goes\ through\ all\ the\ numbers\ in\ the\ list\ 'nums'\ to\ check\ whether\ they\ are\ multiples\ of\ previous\ values\ in\ 'nums'.\n
+comment3.params=even
+comment3.target=int[]\ goldbachConjecture(int)
+comment3.text=\ Primes\ List\:\ This\ is\ the\ set\ of\ all\ prime\ numbers\ [2,\ even),\ where\ even\ \=\ the\ number\ whose\ prime\ sum\ is\ seeked.\n\ \ Loop\ 1\:\ Traverses\ through\ the\ list\ of\ primes.\ \n\ \ Loop\ 2\:\ Traverses\ through\ the\ list\ of\ primes\ and\ check\ to\ see\ if\ the\ sum\ of\ the\ primes\ in\ the\ first\ and\ second\ loop\ equal\ the\ prime\n
+comment4.params=max1\ max2
+comment4.target=java.util.ArrayList\ addBigInts(int,\ int)
+comment4.text=\ Loop\ 1\ and\ 2\:\ Creates\ an\ array\ list\ of\ random\ natural\ numbers\ with\ max\ digits.\ \n\ \ Loop\ 3\:\ Creates\ a\ temporary\ sums\ array\ with\ the\ value\ of\ 0\ \n\ \ Loop\ 4\:\ Takes\ the\ sum\ of\ the\ int1\ and\ int2,\ rounding\ where\ appropraite.\n\ \ Loop\ 5\:\ Fills\ in\ the\ empty\ spots\ in\ the\ sum\ int\n\ \ Loop\ 6\:\ Reverses\ the\ order\ of\ sums\n
+numComments=5
